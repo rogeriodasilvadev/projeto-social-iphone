@@ -34,3 +34,26 @@ section#iphone{
     left: 50%;
     transform: translate(-50%,-50%);
 }
+section#iphone img{
+    height: 471px;
+    width: 269px;
+    position: relative;
+    top: 80px;
+    left: 22px;
+    
+}
+section#redes img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    margin: 10px;
+    
+    
+}
+section#redes img:hover{
+    border: 5px solid white;
+}
+section#redes{
+    text-align: right;
+}

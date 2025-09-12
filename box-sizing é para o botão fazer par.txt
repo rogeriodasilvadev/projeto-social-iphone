@@ -1,0 +1,3 @@
+box-sizing é para o botão fazer parte da borda e não mexer quando passar o hover 
+
+box-sizing:border-box
